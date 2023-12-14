@@ -1,6 +1,3 @@
-Sure, here's a README file in English for the provided code:
-
-```markdown
 # Custom Tkinter Client Search Layout
 
 This code implements a graphical user interface (GUI) layout using Custom Tkinter to facilitate client search functionality.
